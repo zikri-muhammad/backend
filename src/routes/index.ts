@@ -1,5 +1,4 @@
 import express, { Application, Request, Response, NextFunction } from "express";
-
 var router = express.Router();
 
 /* GET home page. */
